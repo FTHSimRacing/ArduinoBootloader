@@ -1,8 +1,3 @@
-# Arduino Bootloader
-
-
-# References
-
 FTH Sim Racing | https://linktr.ee/fthsimracing 
 
 DSE Diy Sim Equipment | https://linktr.ee/dseracing
